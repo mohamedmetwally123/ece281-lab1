@@ -1,5 +1,6 @@
 # Lab 1: Thirty-One Day Month
 
+
 VHDL template for ECE 281 [Lab 1](https://usafa-ece.github.io/ece281-book/lab/lab1.html)
 
 Targeted toward Digilent Basys3 in Vivado 2024.
